@@ -1,3 +1,6 @@
 [submodule "எசெ"]
 	path = எசெ
 	url = https://github.com/247i/DigitalMars.git
+[submodule "நிம்"]
+	path = நிம்
+	url = https://github.com/247i/Nim.git
