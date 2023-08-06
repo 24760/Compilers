@@ -4,3 +4,6 @@
 [submodule "நிம்"]
 	path = நிம்
 	url = https://github.com/247i/Nim.git
+[submodule "சுஎநிஅ"]
+	path = சுஎநிஅ
+	url = https://github.com/247i/NSIS.git
