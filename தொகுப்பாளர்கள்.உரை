@@ -3,7 +3,12 @@ git submodule add https://github.com/247i/CodeBlocks.git குறியீட�
 git submodule add https://github.com/247i/DigitalMars.git எண்முறைசெவ்வாய்
 git submodule add https://github.com/247i/Eclipse.git இடைமறைப்பு
 git submodule add https://github.com/247i/Ezhil.git எழில்
-git submodule add https://github.com/247i/Nim.git நிம் 
-git submodule add https://github.com/247i/NSIS.git சுஎநிஅ 
 git submodule add https://github.com/247i/Java.git சாவா 
 # requires to cleanup
+git submodule add https://github.com/247i/Nim.git நிம் 
+git submodule add https://github.com/247i/NSIS.git சுஎநிஅ 
+git submodule add https://github.com/247i/octave.git எண்கோணம் 
+git submodule add https://github.com/247i/PacificC.git பசிபிக்
+
+ 
+
