@@ -5,3 +5,5 @@ git submodule add https://github.com/247i/Eclipse.git இடைமறைப்�
 git submodule add https://github.com/247i/Ezhil.git எழில்
 git submodule add https://github.com/247i/Nim.git நிம் 
 git submodule add https://github.com/247i/NSIS.git சுஎநிஅ 
+git submodule add https://github.com/247i/Java.git சாவா 
+# requires to cleanup
