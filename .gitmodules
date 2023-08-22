@@ -10,3 +10,6 @@
 [submodule "குறியீடுதொகுதிகள்"]
 	path = குறியீடுதொகுதிகள்
 	url = https://github.com/247i/CodeBlocks.git
+[submodule "இடைமறைப்பு"]
+	path = இடைமறைப்பு
+	url = https://github.com/247i/Eclipse.git
