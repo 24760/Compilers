@@ -37,3 +37,9 @@
 [submodule "வளர்-சி++"]
 	path = வளர்-சி++
 	url = https://github.com/247i/DevC.git
+[submodule "சி++சரிபார்32"]
+	path = சி++சரிபார்32
+	url = https://github.com/247i/CppCheck32.git
+[submodule "சி++சரிபார்64"]
+	path = சி++சரிபார்64
+	url = https://github.com/247i/CppCheck64.git
