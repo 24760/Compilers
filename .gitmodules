@@ -13,3 +13,24 @@
 [submodule "இடைமறைப்பு"]
 	path = இடைமறைப்பு
 	url = https://github.com/247i/Eclipse.git
+[submodule "எழில்"]
+	path = எழில்
+	url = https://github.com/247i/Ezhil.git
+[submodule "பசிபிக்சி"]
+	path = பசிபிக்சி
+	url = https://github.com/247i/PacificC.git
+[submodule "சாவா"]
+	path = சாவா
+	url = https://github.com/247i/Java.git
+[submodule "மாணிக்கம்"]
+	path = மாணிக்கம்
+	url = https://github.com/247i/Ruby.git
+[submodule "சுவி-நிரல்தர்க்கம்"]
+	path = சுவி-நிரல்தர்க்கம்
+	url = https://github.com/247i/Prolog.git
+[submodule "கூர்உருவாக்கி"]
+	path = கூர்உருவாக்கி
+	url = https://github.com/247i/SharpDevelop.git
+[submodule "எண்கோணம்"]
+	path = எண்கோணம்
+	url = https://github.com/247i/octave.git

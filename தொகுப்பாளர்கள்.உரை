@@ -8,9 +8,7 @@
 - git submodule add https://github.com/247i/Nim.git நிம் 
 - git submodule add https://github.com/247i/NSIS.git சுஎநிஅ 
 - git submodule add https://github.com/247i/octave.git எண்கோணம் 
-- git submodule add https://github.com/247i/PacificC.git பசிபிக்
+- git submodule add https://github.com/247i/PacificC.git பசிபிக்சி
 - git submodule add https://github.com/247i/Prolog.git சுவி-நிரல்தர்க்கம்
 - git submodule add https://github.com/247i/Ruby.git மாணிக்கம்
-- git submodule add https://github.com/247i/SharpDevelop.git #உருவாக்கி
-
-
+- git submodule add https://github.com/247i/SharpDevelop.git கூர்உருவாக்கி
