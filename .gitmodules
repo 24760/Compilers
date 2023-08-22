@@ -34,3 +34,6 @@
 [submodule "எண்கோணம்"]
 	path = எண்கோணம்
 	url = https://github.com/247i/octave.git
+[submodule "வளர்-சி++"]
+	path = வளர்-சி++
+	url = https://github.com/247i/DevC.git
