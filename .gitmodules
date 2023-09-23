@@ -49,3 +49,6 @@
 [submodule "கவிமொழிஉலாவி64"]
 	path = கவிமொழிஉலாவி64
 	url = https://github.com/247i/SQLiteBrowser64.git
+[submodule "கவிமொழிமனிதன்"]
+	path = கவிமொழிமனிதன்
+	url = https://github.com/247i/SQLiteMan.git
