@@ -6,6 +6,8 @@
 - git submodule add https://github.com/247i/DigitalMars.git எண்முறைசெவ்வாய்
 - git submodule add https://github.com/247i/Eclipse.git இடைமறைப்பு
 - git submodule add https://github.com/247i/Ezhil.git எழில்
+- git submodule add https://github.com/247i/HeidiSQL32 ஐதிகவிமொ32
+- git submodule add  https://github.com/247i/HeidiSQL64 ஐதிகவிமொ64
 - git submodule add https://github.com/247i/Java.git சாவா 
 # requires to cleanup
 - git submodule add https://github.com/247i/Nim.git நிம் 
