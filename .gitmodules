@@ -58,3 +58,6 @@
 [submodule "ஐதிகவிமொ64"]
 	path = ஐதிகவிமொ64
 	url = https://github.com/247i/HeidiSQL64
+[submodule "முத்து"]
+	path = முத்து
+	url = https://github.com/247i/perl.git
