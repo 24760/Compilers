@@ -61,3 +61,9 @@
 [submodule "முத்து"]
 	path = முத்து
 	url = https://github.com/247i/perl.git
+[submodule "தோனி32"]
+	path = தோனி32
+	url = https://github.com/247i/Thonny32.git
+[submodule "தோனி64"]
+	path = தோனி64
+	url = https://github.com/247i/Thonny64.git
