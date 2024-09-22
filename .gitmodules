@@ -67,3 +67,6 @@
 [submodule "தோனி64"]
 	path = தோனி64
 	url = https://github.com/247i/Thonny64.git
+[submodule ".பிணை"]
+	path = .பிணை
+	url = https://github.com/247i/.net.git

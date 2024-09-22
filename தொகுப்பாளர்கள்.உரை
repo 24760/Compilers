@@ -1,4 +1,5 @@
 # தொகுப்பாளர்கள்
+- git submodule add https://github.com/247i/.net.git .பிணை
 - git submodule add https://github.com/247i/CodeBlocks.git குறியீடுதொகுதிகள் 
 - git submodule add https://github.com/247i/CppCheck32.git சி++சரிபார்32
 - git submodule add https://github.com/247i/CppCheck64.git சி++சரிபார்64
