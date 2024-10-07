@@ -67,3 +67,6 @@
 [submodule "தோனி"]
 	path = தோனி
 	url = https://github.com/247i/Thonny.git
+[submodule "முனையம்"]
+	path = முனையம்
+	url = https://github.com/247i/node
