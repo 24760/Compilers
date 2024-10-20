@@ -5,8 +5,7 @@
 - git submodule add https://github.com/247i/DigitalMars.git எண்முறைசெவ்வாய்
 - git submodule add https://github.com/247i/Eclipse.git இடைமறைப்பு
 - git submodule add https://github.com/247i/Ezhil.git எழில்
-- git submodule add https://github.com/247i/HeidiSQL32 ஐதிகவிமொ32
-- git submodule add  https://github.com/247i/HeidiSQL64 ஐதிகவிமொ64
+- git submodule add https://github.com/247i/HeidiSQL ஐதிகவிமொ
 - git submodule add https://github.com/247i/Java.git சாவா 
 # requires to cleanup
 - git submodule add https://github.com/247i/Nim.git நிம்
@@ -18,7 +17,6 @@
 - git submodule add https://github.com/247i/Prolog.git சுவி-நிரல்தர்க்கம்
 - git submodule add https://github.com/247i/Ruby.git மாணிக்கம்
 - git submodule add https://github.com/247i/SharpDevelop.git கூர்உருவாக்கி
-- git submodule add https://github.com/247i/SQLiteBrowser32.git கவிமொழிஉலாவி32
-- git submodule add https://github.com/247i/SQLiteBrowser64.git கவிமொழிஉலாவி64
+- git submodule add https://github.com/247i/SQLiteBrowser.git கவிமொழிஉலாவி
 - git submodule add https://github.com/247i/SQLiteMan.git கவிமொழிமனிதன்
 - git submodule add https://github.com/247i/Thonny.git தோனி
