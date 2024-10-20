@@ -55,3 +55,6 @@
 [submodule "கவிமொழிஉலாவி"]
 	path = கவிமொழிஉலாவி
 	url = https://github.com/247i/SQLiteBrowser.git
+[submodule "ஐதிகவிமொ"]
+	path = ஐதிகவிமொ
+	url = https://github.com/247i/HeidiSQL
