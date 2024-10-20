@@ -58,3 +58,6 @@
 [submodule "ஐதிகவிமொ"]
 	path = ஐதிகவிமொ
 	url = https://github.com/247i/HeidiSQL
+[submodule "தானியங்கி3"]
+	path = தானியங்கி3
+	url = https://github.com/247i/Autoit3.git
