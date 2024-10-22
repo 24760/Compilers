@@ -43,8 +43,8 @@
 [submodule "முத்து"]
 	path = முத்து
 	url = https://github.com/247i/perl.git
-[submodule ".பிணை"]
-	path = .பிணை
+[submodule "புள்ளிப்பிணை"]
+	path = புள்ளிப்பிணை
 	url = https://github.com/247i/.net.git
 [submodule "தோனி"]
 	path = தோனி

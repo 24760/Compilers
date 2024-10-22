@@ -1,5 +1,5 @@
 # தொகுப்பாளர்கள்
-- git submodule add https://github.com/247i/.net.git .பிணை
+- git submodule add https://github.com/247i/.net.git புள்ளிப்பிணை
 - git submodule add https://github.com/247i/Autoit3.git தானியங்கி3
 - git submodule add https://github.com/247i/CodeBlocks.git குறியீடுதொகுதிகள் 
 - git submodule add https://github.com/247i/DevC.git வளர்-சி++
