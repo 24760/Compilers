@@ -58,3 +58,6 @@
 [submodule "தானியங்கி3"]
 	path = தானியங்கி3
 	url = https://github.com/247i/Autoit3.git
+[submodule "புள்ளிப்பிணை"]
+	path = புள்ளிப்பிணை
+	url = https://github.com/247i/.net.git
